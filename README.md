@@ -1,2 +1,2 @@
 # Build1
- Build igrice za brzi download
+Latest build igrice za bugtestanje.
